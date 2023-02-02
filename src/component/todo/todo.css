@@ -1,0 +1,53 @@
+#heading-todo{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#header-todo{
+    text-align: end;
+    border: 3px solid greenyellow;
+    min-height: 80px;
+    max-width: 97%;
+    margin: 5px auto;
+
+}
+
+#aside-todo{
+    display: inline-block;
+    background-color: aquamarine;
+    min-width: 240px;
+    min-height: 500px;
+    float: left;
+    text-align: center; 
+}
+
+#activity-todo{
+    display: block;
+    margin: 30px auto;
+
+}
+#table-section{
+    position: relative;
+    left: 5%;
+    max-width:70%;
+    margin-left: 30px;
+}
+#add-container{
+    width: 99%;
+    height: 100vh;
+    position: fixed;
+    top:0%;
+    background-color: rgba(0, 0, 0, 0.311);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+}
+thead,tr,td{
+    background-color: aquamarine;
+    
+}
+table{
+    width: 60%;
+    
+}

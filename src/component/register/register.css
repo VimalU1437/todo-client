@@ -1,0 +1,18 @@
+#reg-container{
+    min-width: 300px;
+    max-width: 400px;
+    min-height: 400px;
+    background-color: aqua;
+    border-radius:10px ;
+    box-shadow: 2px 2px 8px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#log-btn{
+    margin-top: 30px;
+}
+
+.danger{
+    color: red;
+}
